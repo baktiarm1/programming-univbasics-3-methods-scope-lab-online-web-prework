@@ -10,4 +10,7 @@ def link
   puts  "It's Dangerous To Go Alone! Take This."
 end
 
-
+def any-phrase(phrase)
+puts phrase
+end
+any-phrase('')
