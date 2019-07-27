@@ -7,4 +7,3 @@ def toadstool
 end
 
 mario
-toadstool
